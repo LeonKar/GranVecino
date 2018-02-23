@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "970916580729",
+    "firebase_url": "https://gran-vecino.firebaseio.com",
+    "project_id": "gran-vecino",
+    "storage_bucket": "gran-vecino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970916580729:android:f5c89f69b6b1fc3a",
+        "android_client_info": {
+          "package_name": "com.example.alberto.granvecino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970916580729-s41n7a9gisume4b8btgshq7l0jp9gdiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeA-Y_K9TDVS-UYBgzOJfoNTYkvWmJeUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
